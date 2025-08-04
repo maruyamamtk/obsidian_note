@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "e7899ad98920056c",
+    "type": "split",
+    "children": [
+      {
+        "id": "92376e25a97be1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b74da4820e070c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2025-08-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "795b6050fa71a3fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a20dd6ca3d7a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "386ed31e93acc427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "d9fc99a0f17d09c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "59331174ef1c6d56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 468.5
+  },
+  "right": {
+    "id": "4964d1812bd4803f",
+    "type": "split",
+    "children": [
+      {
+        "id": "503d91cf55713477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1286513847192161",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_Bookmemo/スーパーエンジニアへの道　技術リーダーシップの人間学/章ごとのまとめ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "章ごとのまとめへのバックリンク"
+            }
+          },
+          {
+            "id": "ca818676ae0b0e36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_Bookmemo/スーパーエンジニアへの道　技術リーダーシップの人間学/章ごとのまとめ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "章ごとのまとめからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d1795b21ebba96ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "84085dd0f40dad1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Daily/2025-07-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-07-05のアウトライン"
+            }
+          },
+          {
+            "id": "2257a846f0d6a666",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0d55cf7b624a5461",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "0d55cf7b624a5461",
+  "lastOpenFiles": [
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第2章_業務プロセスの再設計.md",
+    "02_Daily/2025-08-05.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第4章_組織的浸透と人材開発.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第5章_ルールとガバナンス.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第1章_AIイネーブルメントの必要性.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第3章_技術基盤とアーキテクチャ.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/章ごとのまとめ.md",
+    "05_Bookmemo/ビジネス課題を解決する技術/章ごとのまとめ.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第2章 Operation 業務プロセスの再設計と実行.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第1章 なぜ AIイネーブルメント が求められるのか.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第4章 People 組織的浸透と人材のスキル開発.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第5章 Governance ルール・ガバナンスの策定.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第5章 Governance ルール・ガバナンスの策定_continuation.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代/詳細_第3章 Platform 生成AI・AIエージェントが動く基盤とアーキテクチャ.md",
+    "06_Bookhilight/友樹-［エンジニアのための］データ分析基盤入門　データ活用を促進する！ プラットフォーム＆データ品質の考え方.md",
+    "06_Bookhilight/尊司-回避性愛着障害～絆が稀薄な人たち～.md",
+    "05_Bookmemo/ビジネス課題を解決する技術/詳細_第5章 離散最適化で広告出稿番組を選択する.md",
+    "06_Bookhilight/Neomiya-あなたの「趣味」を「お金」に変える最新AI×Kindle出版.md",
+    "06_Bookhilight/山川雄志-AIイネーブルメント　AIエージェントと人間で協創するWith AI時代.md",
+    "無題のファイル.canvas",
+    "05_Bookmemo/ビジネス課題を解決する技術/詳細_第4章 連続最適化で広告予算を配分する.md",
+    "05_Bookmemo/ビジネス課題を解決する技術/詳細_第2章 マーケティングにデータサイエンスを導入する.md",
+    "05_Bookmemo/ビジネス課題を解決する技術/詳細_第3章 認知形成を数理モデリングする.md",
+    "05_Bookmemo/ビジネス課題を解決する技術/詳細_第1章 ビジネス課題を解決する技術.md",
+    "05_Bookmemo/ビジネス課題を解決する技術/詳細_第0章 はじめに.md",
+    "05_Bookmemo/AIイネーブルメント_AIエージェントと人間で協創するWith_AI時代",
+    "04_Templates/Bookmemo_structure_README.md",
+    "05_Bookmemo/スーパーエンジニアへの道　技術リーダーシップの人間学/章ごとのまとめ.md",
+    "05_Bookmemo/ビジネス課題を解決する技術",
+    "07_Bookall/memo.txt",
+    "07_Bookall/新しいテキスト ドキュメント.txt",
+    "01_Inbox/AIエージェント",
+    "01_Inbox/分析向けAIツール",
+    "01_Inbox/確率分布まとめ/05_確率分布早見シート.canvas",
+    "01_Inbox/統計的仮説検定について",
+    "01_Inbox/確率分布まとめ",
+    "05_Bookmemo/Pythonでスラスラわかるベイズ推論「超」入門",
+    "07_Bookall/ビジネス課題を解決する技術/ビジネス課題を解決する技術.pdf",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200443.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200439.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200435.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200430.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200426.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200422.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200417.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200413.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200409.png",
+    "07_Bookall/ビジネス課題を解決する技術/kindle_page_20250721_200405.png"
+  ]
+}
